@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Keerthana  
-### A passionate Software Developer crafting responsive and interactive web applications with **React.js**, **HTML**, **CSS**, and **JavaScript**.  
-
+### A passionate Software Developer crafting responsive and interactive web applications with **React**
 ---
 
 ## 🚀 Skills & Tools
