@@ -41,7 +41,7 @@
 
 ---
 
-### 🎉 Fun Zone ✨
+
 > Life’s too short for boring code!  
 
 - 🕹️ Always chasing coding challenges
@@ -53,5 +53,4 @@
 
 ---
 
-### 🌈 Fun Animated Badge (Optional)
 ![Profile Views](https://komarev.com/ghpvc/?username=keerthu1501&color=brightgreen)
