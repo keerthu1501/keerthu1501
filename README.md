@@ -12,13 +12,12 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff) 
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=fff)  
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff) 
+### Backend / Database
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)  
 
 ### Design & Tools
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff) 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff) 
@@ -41,16 +40,24 @@
 
 ---
 
-
+### 🎉 Fun Zone ✨
 > Life’s too short for boring code!  
 
-- 🕹️ Always chasing coding challenges
+- 🕹️ Always chasing coding challenges  
 - ☕ Powered by coffee, inspired by creativity  
-- 🎶 Music vibes: headeset on ! Bug was gone !!  
+- 🎶 Music vibes: Headset on → Bugs gone! 🎧  
 - ✈️ Dreaming of building apps while exploring the world  
-- 🎨 I love designing UIs in **Figma**  
-- 😂 Debugging Motto: *“It’s not a bug… it’s a surprise feature!”*    
+- 🎨 UI Designer: love creating interfaces in **Figma**  
+- 😂 Debugging Motto: *“It’s not a bug… it’s a surprise feature!”*  
+- 🌟 Fun Fact: I add personality to every project I touch 😎  
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=keerthu1501&color=brightgreen)
+### 🌈 Extra Flair
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=keerthu1501&color=brightgreen" alt="Profile Views">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Keerthana-Coding%20Queen-%23ff69b4?style=for-the-badge&logo=visual-studio-code" alt="Custom Badge">
+</p>
