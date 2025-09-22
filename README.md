@@ -34,8 +34,7 @@
 
 ---
 
-## 🌐 Let's Connect & Have Fun  
-
+## 🌐 Let's Connect 
 | 💼 LinkedIn | 💻 GitHub | 🌐 Portfolio | 📧 Email |
 |-------------|-----------|--------------|----------|
 | [LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/keerthu1501) | [Portfolio](https://yourwebsite.com) | nkeerthana1525@gmail.com |
