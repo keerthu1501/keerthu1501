@@ -59,5 +59,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Keerthana-Coding%20Queen-%23ff69b4?style=for-the-badge&logo=visual-studio-code" alt="Custom Badge">
+  <img src="https://img.shields.io/badge/💻-Code%20With%20Passion-%23007ACC?style=for-the-badge&logo=visual-studio-code" alt="Custom Badge">
 </p>
+
